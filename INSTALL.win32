@@ -2,7 +2,7 @@ Configuration
 -------------
 Before you can compile anything, create a file called 'config.bat' in the
 source subdirectory ('src', that is). It's best to copy the template below
-out of this file and modify it to fit your setup.
+from this file and modify it to fit your setup.
 
 In most cases, you just want to change the installation target directories
 "bindir", "includedir" and "libdir" to your standard binary, header and
