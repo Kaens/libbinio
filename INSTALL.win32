@@ -22,7 +22,7 @@ the directory names, using the appropriate listboxes.
 Setup
 -----
 Start MSVC and create a new workspace. Then load the project file
-libbinio.dsp from the source subdirecotry into it and you're finished.
+libbinio.dsp from the source subdirectory into it and you're finished.
 
 config.bat Template
 -------------------
