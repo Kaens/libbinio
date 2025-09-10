@@ -54,7 +54,7 @@ CONFIG.MIF file:
 debug = yes
 
 This will recompile all source files with source-level debugging enabled and
-instructs the linker to include debugging information. Be careful with the
+instruct the linker to include debugging information. Be careful with the
 SYSTEM setting in your CONFIG.MIF file, though. Only some extenders are
 supported by the Watcom debugger. Some distributions may have defined a
 non-compatible extender by default, which you must override by specifying
